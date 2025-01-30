@@ -31,3 +31,8 @@ Install the dependencies via pip:
 
 ```bash
 pip install pandas numpy yfinance alpha_vantage scikit-learn keras matplotlib requests beautifulsoup4 nltk
+
+Usage
+To run the script, execute:
+python src/main.py
+
